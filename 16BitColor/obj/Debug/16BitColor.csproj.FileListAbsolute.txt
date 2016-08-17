@@ -1,0 +1,6 @@
+c:\users\nathan\documents\visual studio 2015\Projects\16BitColor\16BitColor\bin\Debug\16BitColor.exe.config
+c:\users\nathan\documents\visual studio 2015\Projects\16BitColor\16BitColor\bin\Debug\16BitColor.exe
+c:\users\nathan\documents\visual studio 2015\Projects\16BitColor\16BitColor\bin\Debug\16BitColor.pdb
+c:\users\nathan\documents\visual studio 2015\Projects\16BitColor\16BitColor\obj\Debug\16BitColor.csprojResolveAssemblyReference.cache
+c:\users\nathan\documents\visual studio 2015\Projects\16BitColor\16BitColor\obj\Debug\16BitColor.exe
+c:\users\nathan\documents\visual studio 2015\Projects\16BitColor\16BitColor\obj\Debug\16BitColor.pdb
